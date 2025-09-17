@@ -1,7 +1,7 @@
 {
-  "name": "awwbot",
+  "name": "cloudflare-discord-bot-sega",
   "version": "1.0.0",
-  "description": "A simple discord bot that uses intents to post pictures from r/aww",
+  "description": "A discord bot powered by cloudflare, scrape maimai/chunithm/ongeki/performai to our discord! and even more feature!",
   "type": "module",
   "private": true,
   "main": "src/server.js",
@@ -15,7 +15,7 @@
     "publish": "wrangler deploy"
   },
   "keywords": [],
-  "author": "Justin Beckwith <justin.beckwith@gmail.com>",
+  "author": "Xein <xein@xein.dev>",
   "license": "MIT",
   "dependencies": {
     "discord-interactions": "^4.0.0",
